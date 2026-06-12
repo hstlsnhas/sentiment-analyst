@@ -1,0 +1,94 @@
+[
+    {
+        "sector": "ALL SECTOR",
+        "total_ulasan": 227,
+        "all_topik_dan_jumlah": "membantu (5), tempatnya luas (3), pelayanananya tempatnya (2), bebek empuk dimakan (1), nya telur dadarnya (1), pulkam nugas kuliah (1), nugas kuliah disini (1), pulkam nugas (1), fery berangkat (1), berangkat (1), pelayanannya minus tolong (4), reguler pelayanannya minus (4), judes marah marahin (4), jualan lebih nunggu (1), karyawan nya niat (1)",
+        "sentiment_breakdown": [
+            {
+                "sentiment": "Positif",
+                "jumlah_ulasan": 170,
+                "top_topics": "membantu, tempatnya luas, pelayanananya tempatnya, bebek empuk dimakan, nya telur dadarnya",
+                "topic_counts": "5, 3, 2, 1, 1"
+            },
+            {
+                "sentiment": "Netral",
+                "jumlah_ulasan": 31,
+                "top_topics": "pulkam nugas kuliah, nugas kuliah disini, pulkam nugas, fery berangkat, berangkat",
+                "topic_counts": "1, 1, 1, 1, 1"
+            },
+            {
+                "sentiment": "Negatif",
+                "jumlah_ulasan": 26,
+                "top_topics": "pelayanannya minus tolong, reguler pelayanannya minus, judes marah marahin, jualan lebih nunggu, karyawan nya niat",
+                "topic_counts": "4, 4, 4, 1, 1"
+            }
+        ],
+        "rekomendasi_ai": "Berdasarkan data yang disajikan, terdapat beberapa masalah utama yang perlu diperhatikan, yaitu pelayanan yang kurang memuaskan dan karyawan yang tidak memiliki niat baik. Namun, sektor ini juga memiliki peluang strategis dengan sentimen positif yang cukup tinggi, yaitu 170 ulasan positif yang menekankan pada kebermanfaatan dan kenyamanan tempat. Oleh karena itu, rekomendasi strategis yang dapat dikembangkan adalah meningkatkan kualitas pelayanan dengan pelatihan karyawan yang lebih baik, serta mempertahankan dan meningkatkan kenyamanan tempat untuk meningkatkan kepuasan pengunjung. Dengan demikian, diharapkan kepuasan pengunjung dapat ditingkatkan dan sektor ini dapat menjadi lebih kompetitif."
+    },
+    {
+        "sector": "Harbourfront and Intermoda Area",
+        "total_ulasan": 149,
+        "all_topik_dan_jumlah": "membantu (5), tempatnya luas (3), pelayanananya tempatnya (2), bebek empuk dimakan (1), nya telur dadarnya (1), pulkam nugas kuliah (1), nugas kuliah disini (1), pulkam nugas (1), fery berangkat (1), berangkat (1), pelayanannya minus tolong (4), reguler pelayanannya minus (4), judes marah marahin (4), jualan lebih nunggu (1), karyawan nya niat (1)",
+        "sentiment_breakdown": [
+            {
+                "sentiment": "Positif",
+                "jumlah_ulasan": 105,
+                "top_topics": "membantu, tempatnya luas, pelayanananya tempatnya, bebek empuk dimakan, nya telur dadarnya",
+                "topic_counts": "5, 3, 2, 1, 1"
+            },
+            {
+                "sentiment": "Netral",
+                "jumlah_ulasan": 23,
+                "top_topics": "pulkam nugas kuliah, nugas kuliah disini, pulkam nugas, fery berangkat, berangkat",
+                "topic_counts": "1, 1, 1, 1, 1"
+            },
+            {
+                "sentiment": "Negatif",
+                "jumlah_ulasan": 21,
+                "top_topics": "pelayanannya minus tolong, reguler pelayanannya minus, judes marah marahin, jualan lebih nunggu, karyawan nya niat",
+                "topic_counts": "4, 4, 4, 1, 1"
+            }
+        ],
+        "rekomendasi_ai": "Berdasarkan data ulasan, terdapat masalah utama terkait pelayanan yang kurang memuaskan, dengan 21 ulasan negatif yang menyebutkan pelayanan minus dan karyawan yang kurang ramah. Namun, sektor Harbourfront and Intermoda Area juga memiliki peluang strategis dengan 105 ulasan positif yang menekankan kelebihan tempat yang luas dan pelayanan yang membantu. Oleh karena itu, rekomendasi strategis yang dapat dikembangkan adalah meningkatkan kualitas pelayanan dengan pelatihan karyawan, memperluas fasilitas, dan meningkatkan kemudahan akses untuk pengunjung, sehingga kepuasan pengunjung dapat ditingkatkan dan meningkatkan kesan positif terhadap sektor ini."
+    },
+    {
+        "sector": "Hilltop Resort",
+        "total_ulasan": 66,
+        "all_topik_dan_jumlah": "parkir jalan utama (1), mobil parkir jalan (1), parkir kecil mobil (1), tepatnya depan spbu (1), parkiran luas dekat (1), membeli berbagai kebutuhan (1), perjalanan membeli berbagai (1), point perjalanan membeli (1), disini orang beli (1), paling ramai disini (1), ramai perbekalan penyebrangan (1), berdatangan ramai perbekalan (1), sampai kulkas rusak (1), parkiran pinggir jalan (1), pinggir jalan kurang (1)",
+        "sentiment_breakdown": [
+            {
+                "sentiment": "Positif",
+                "jumlah_ulasan": 53,
+                "top_topics": "parkir jalan utama, mobil parkir jalan, parkir kecil mobil, tepatnya depan spbu, parkiran luas dekat",
+                "topic_counts": "1, 1, 1, 1, 1"
+            },
+            {
+                "sentiment": "Netral",
+                "jumlah_ulasan": 8,
+                "top_topics": "membeli berbagai kebutuhan, perjalanan membeli berbagai, point perjalanan membeli, disini orang beli, paling ramai disini",
+                "topic_counts": "1, 1, 1, 1, 1"
+            },
+            {
+                "sentiment": "Negatif",
+                "jumlah_ulasan": 5,
+                "top_topics": "ramai perbekalan penyebrangan, berdatangan ramai perbekalan, sampai kulkas rusak, parkiran pinggir jalan, pinggir jalan kurang",
+                "topic_counts": "1, 1, 1, 1, 1"
+            }
+        ],
+        "rekomendasi_ai": "Berdasarkan data ulasan Hilltop Resort, terdapat beberapa masalah utama yang perlu diperhatikan, seperti parkiran yang kurang memadai dan kerusakan fasilitas. Namun, sebagian besar ulasan memiliki sentimen positif terkait kemudahan parkir dan lokasi yang strategis. Peluang strategis yang bisa dikembangkan adalah meningkatkan kenyamanan dan kemudahan pengunjung dengan memperluas area parkir dan memperbaiki fasilitas yang rusak. Rekomendasi tindakan konkret adalah melakukan perluasan parkir, perbaikan fasilitas, dan peningkatan layanan untuk meningkatkan kepuasan pengunjung dan mempertahankan sentimen positif yang sudah ada."
+    },
+    {
+        "sector": "Marina District",
+        "total_ulasan": 12,
+        "all_topik_dan_jumlah": "gurme bakar nya (1), ayam bakar bekakak (1), bakar nya pokokok (1), asik santai sukan (1), paling pojok asik (1)",
+        "sentiment_breakdown": [
+            {
+                "sentiment": "Positif",
+                "jumlah_ulasan": 12,
+                "top_topics": "gurme bakar nya, ayam bakar bekakak, bakar nya pokokok, asik santai sukan, paling pojok asik",
+                "topic_counts": "1, 1, 1, 1, 1"
+            }
+        ],
+        "rekomendasi_ai": "Berdasarkan data ulasan Marina District, terlihat bahwa tidak ada sentimen negatif yang signifikan, melainkan sentimen positif yang mendominasi dengan topik-topik seperti makanan bakar dan suasana santai. Meskipun demikian, analisis menunjukkan bahwa variasi ulasan masih terbatas, sehingga peluang strategis yang bisa dikembangkan adalah meningkatkan diversifikasi pengalaman kuliner dan aktivitas hiburan. Rekomendasi tindakan konkret adalah mengembangkan menu baru yang inovatif, memperluas fasilitas rekreasi, dan mempererat promosi untuk meningkatkan kesadaran dan kepuasan pengunjung, sehingga Marina District dapat menjadi destinasi yang lebih menarik dan komprehensif."
+    }
+]

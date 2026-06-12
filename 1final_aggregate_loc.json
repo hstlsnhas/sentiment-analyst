@@ -1,0 +1,266 @@
+[
+    {
+        "place_name":"Anjungan Agung Mall",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":1,
+        "Netral":0,
+        "Positif":9,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Dermaga 5 Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":2,
+        "Netral":2,
+        "Positif":6,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Masjid Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":2,
+        "Positif":8,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Pelabuhan Bakauheni Lampung",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":4,
+        "Netral":1,
+        "Positif":5,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Terminal Executive Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":2,
+        "Netral":0,
+        "Positif":8,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Dermaga 1 Ferry Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":1,
+        "Positif":8,
+        "total_ulasan":9
+    },
+    {
+        "place_name":"Dermaga 3 Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":3,
+        "Positif":6,
+        "total_ulasan":9
+    },
+    {
+        "place_name":"Bakauheni Shopping Mall",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":1,
+        "Netral":0,
+        "Positif":7,
+        "total_ulasan":8
+    },
+    {
+        "place_name":"Bebek Mas Mun BakauHeni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":1,
+        "Netral":0,
+        "Positif":7,
+        "total_ulasan":8
+    },
+    {
+        "place_name":"DERMAGA 2 Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":3,
+        "Positif":5,
+        "total_ulasan":8
+    },
+    {
+        "place_name":"DERMAGA 6 BAKAUHENI",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":2,
+        "Netral":2,
+        "Positif":4,
+        "total_ulasan":8
+    },
+    {
+        "place_name":"ATM Bank BCA 079F-SPBU Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":1,
+        "Netral":0,
+        "Positif":6,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"Indomaret Point Terminal Eksekutif Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":4,
+        "Netral":3,
+        "Positif":0,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":1,
+        "Positif":6,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"TOKO DEWI (Pusat Oleh - Oleh Khas Lampung) | Pelabuhan Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":7,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"The Gade Coffee and Gold Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":5,
+        "total_ulasan":5
+    },
+    {
+        "place_name":"Alfamart bakauheni 2",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":1,
+        "Netral":3,
+        "Positif":0,
+        "total_ulasan":4
+    },
+    {
+        "place_name":"Atm Mandiri Link",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":3,
+        "total_ulasan":3
+    },
+    {
+        "place_name":"Lejit Cafe",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":1,
+        "Positif":2,
+        "total_ulasan":3
+    },
+    {
+        "place_name":"ATM BNI SPBU Bakauheni",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":2,
+        "Netral":0,
+        "Positif":0,
+        "total_ulasan":2
+    },
+    {
+        "place_name":"ATM BRI Link",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":1,
+        "Positif":0,
+        "total_ulasan":1
+    },
+    {
+        "place_name":"Berkah Alam Resto",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":1,
+        "total_ulasan":1
+    },
+    {
+        "place_name":"Berkah Mart 1",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":1,
+        "total_ulasan":1
+    },
+    {
+        "place_name":"Pusat belanja oleh-oleh",
+        "sector":"Harbourfront and Intermoda Area",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":1,
+        "total_ulasan":1
+    },
+    {
+        "place_name":"Indomaret Bakauheni 1",
+        "sector":"Hilltop Resort",
+        "Negatif":1,
+        "Netral":2,
+        "Positif":7,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Krakatau Park Lampung",
+        "sector":"Hilltop Resort",
+        "Negatif":1,
+        "Netral":0,
+        "Positif":9,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Masjid BSI Bakauheni",
+        "sector":"Hilltop Resort",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":10,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Menara Siger Lampung",
+        "sector":"Hilltop Resort",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":10,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"Monumen Titik Nol Sumatera",
+        "sector":"Hilltop Resort",
+        "Negatif":1,
+        "Netral":2,
+        "Positif":7,
+        "total_ulasan":10
+    },
+    {
+        "place_name":"INDOMARET Menara Bakau",
+        "sector":"Hilltop Resort",
+        "Negatif":0,
+        "Netral":1,
+        "Positif":8,
+        "total_ulasan":9
+    },
+    {
+        "place_name":"Pasar Tradisional Bakauheni",
+        "sector":"Hilltop Resort",
+        "Negatif":2,
+        "Netral":3,
+        "Positif":2,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"D'PAWON.",
+        "sector":"Marina District",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":7,
+        "total_ulasan":7
+    },
+    {
+        "place_name":"SRC TOKO AYU BAKAUHENI",
+        "sector":"Marina District",
+        "Negatif":0,
+        "Netral":0,
+        "Positif":5,
+        "total_ulasan":5
+    }
+]
