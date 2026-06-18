@@ -22,6 +22,7 @@ Geographic delineation boundaries (leveraging the `place_lat` and `place_lng` co
 
 The project consists of a core two-part technical implementation: a backend data engineering pipeline and a frontend interactive analytics dashboard.
 
+```text
 +------------------------------------------+      +------------------------------------------+
 |          1. BACKEND NLP PIPELINE         |      |        2. FRONTEND STREAMLIT APP         |
 |        (sentiment_analyst.ipynb)         |      |          (app-dashboard.py)              |
