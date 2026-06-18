@@ -47,7 +47,7 @@ The project consists of a core two-part technical implementation: a backend data
 |                  ▼                       |
 |  [End: Export to df_final CSV/JSON]      |
 +------------------------------------------+
-
+```
 
 ### 🔍 Detailed Processing & Component Modules
 1. **Backend Pipeline (`sentiment_analyst.ipynb`):**
